@@ -1,0 +1,9 @@
+body {
+    background-color: #291141;
+    background-image: linear-gradient(62deg, #291141 0%, #ffffff 100%);    
+}
+
+.logomenu {
+    height: 50px;
+    width: 150;
+}
